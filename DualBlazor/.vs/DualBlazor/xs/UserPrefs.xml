@@ -1,0 +1,7 @@
+﻿<Properties StartupConfiguration="{AC62FA0E-70F8-407C-A338-D91BB2B5B5B4}|https">
+  <MonoDevelop.Ide.ItemProperties.DualBlazorWasm.Shared FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.DualBlazorWasm.Server FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.DualBlazor PreferredExecutionTarget="/Applications/Google Chrome.app" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.DualBlazorWasm.Client FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>
